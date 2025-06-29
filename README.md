@@ -54,4 +54,4 @@ I specialize in data science as part of my degree, but my interests extend acros
 
 ---
 
-#### *“Ancora imparo” — I am still learning.* 🌱 ####
+### *“Ancora imparo” — I am still learning.* 🌱 ###
