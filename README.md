@@ -7,7 +7,7 @@ I am a Bachelor of Computer Science (Hons) graduate from Monash University Malay
 
 I specialize in data science as part of my degree, but my interests extend across various areas of tech and innovation. I'm passionate about problem-solving and enjoy turning ideas into practical solutions. I thrive in creative environments where I have the freedom to explore, experiment, and build freely. Here's a little bit more about me:
 
-- 🔭 I’m always learning and growing — currently exploring DevOps and full-stack development.
+- 🔭 I’m always learning and growing — currently exploring full-stack development and honing my skills in DS/ML.
 - 🌱 I'm learning JavaScript and React.js as my first steps in that direction.
 - 👋 I’m always up for a conversation about technology, data science, or video games.
 - 😄 Feel free to connect with me through the social media badges above!
